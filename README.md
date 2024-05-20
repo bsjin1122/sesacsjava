@@ -16,8 +16,8 @@
   <tr>
     <td>01</td>
     <td>240518-토</td>
-    <td>프로젝트 주제 선정</td>
-    <td>기술 스택 찾기</td>
+    <td>[프로젝트 주제 선정](https://github.com/bsjin1122/sesacsjava/blob/main/lecture/%5B01%5D-20240518.md)</td>
+    <td>[기술 스택 찾기](https://github.com/bsjin1122/sesacsjava/blob/main/study/%5B01%5D-%EC%B6%94%EA%B0%80%ED%95%99%EC%8A%B5.md)</td>
     <td>하고 싶은 걸 하지말고, 취업을 위한 것을 해라</td>
   </tr>
   
