@@ -1,0 +1,27 @@
+#main_header{
+    width: 960px;
+    margin: 0 auto;
+    
+    /* 절대 좌표 */
+    height: 160px;
+    position: relative; 
+    /*자손의 position속성에 absolute 키워드를 적용하면 부모의 position 속성에 relative 키워드를 적용*/
+}
+
+#main_header > #title{
+    position: absolute;
+    left:20px; top:30px;
+}
+
+#main_header > #title {
+    position: absolute;
+    left: 20px; top: 30px;
+}
+#main_header > #main_gnb {
+    position: absolute;
+    right: 0; top: 0;
+}
+#main_header > #main_lnb {
+    position: absolute;
+    right: 0; bottom: 10px;
+}

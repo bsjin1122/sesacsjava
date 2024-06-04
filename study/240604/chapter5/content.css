@@ -1,0 +1,16 @@
+#content {
+    /* 중앙 정렬 */
+    width: 960px; margin: 0 auto;
+
+    /* 수평 레이아웃 구성 */
+    overflow: hidden;
+}
+#content > #main_section {
+    width: 750px;
+    float: left;
+}
+#content > #main_aside {
+    width: 200px;
+    float: right;
+}
+   

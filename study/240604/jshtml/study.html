@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        const readline = required('readline');
+
+        const rl = readline.createInterface({
+            input: process.stdin,
+            output: process.stdout,
+        });
+        // 사용자에게 숫자를 입력 받음 
+        rl.question('숫자를 입력하세요: ', (answer)=>{
+            const number = Number(answer); // 입력 받은 값을 숫자로 변환
+            const result = number >= 0 ? '0 이상의 숫자입니다.' : '0보다 작은 숫자입니다.';
+            console.log(result);
+
+            // readline 인터페이스 닫기 
+            r.close();
+        })
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
+<!--         let list = '';
+
+        // 연산자를 사용합니다. 
+        list += '<ul>';
+        list += '  <li>Hello</li>';
+        list += '  <li>JavaScript..!</li>';
+        list += '</ul>';
+
+        document.write(list); -->

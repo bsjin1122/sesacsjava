@@ -14,3 +14,7 @@
 |03|240523목|[테이블 설계](https://github.com/bsjin1122/sesacsjava/blob/main/lecture/%5B03%5D-20240523%EB%AA%A9.md)|
 |04|240525토|[네트워크&자바기초](https://github.com/bsjin1122/sesacsjava/blob/main/lecture/%5B04%5D-20240525%ED%86%A0.md)|
 |05|240528화||
+|06|240530목||
+|07|240601토|자바 생성자, static|
+|08|240604화|CSS, JS|
+
