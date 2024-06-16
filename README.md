@@ -1,6 +1,7 @@
 # sesacsjava
 
 > 배운 내용들을 책과 내용정리로 복습하고, 기록하기
+> 🍀[notion - 모르는 것 정리](https://pouncing-wind-1c4.notion.site/e9043069705e4c6ebbf27feb4495f838?pvs=4)
 
 <br>
 
